@@ -2514,7 +2514,14 @@ body {
 .cid-rCqt6pelzQ {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/mister-2-1037x582.png");
+  background-color: #000000;
+}
+.cid-rCqt6pelzQ H1 {
+  text-align: left;
+}
+.cid-rCqt6pelzQ .mbr-text,
+.cid-rCqt6pelzQ .mbr-section-btn {
+  text-align: left;
 }
 .cid-rCqxMv65eF {
   padding-top: 90px;
